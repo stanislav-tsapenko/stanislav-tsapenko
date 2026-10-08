@@ -1,4 +1,4 @@
-# Hi, I'm Stanislav 👋
+# Hi, I'm Stanislav Tsapenko 👋
 
 Finance and accounting professional transitioning into Data Analytics, with a 20+ year background in business management and technical roles and a Master's in Automation and Control (Summa Cum Laude). Strong in SQL, Python, Tableau, statistics and A/B testing. Automated 10+ reports (–30% manual work) and implemented KPI dashboards for 5+ business units. Analyzed four A/B tests (16 metric comparisons) with Z-tests in Python. Translates raw data into business decisions. Detail-oriented, self-directed learner.
 
@@ -6,7 +6,7 @@ Finance and accounting professional transitioning into Data Analytics, with a 20
 
 - **SQL:** Google BigQuery
 - **Python:** pandas, numpy, matplotlib, seaborn, statsmodels, scipy
-- **BI:** Tableau Public
+- **BI:** Tableau Public, PowerBI
 - **Statistics:** A/B testing, Z-test, correlation, non-parametric tests
 
 ## 📂 Featured projects
@@ -22,7 +22,7 @@ Finance and accounting professional transitioning into Data Analytics, with a 20
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/stanislav-tsapenko-bb097a319)
-- [Email](mailto:stanislav.tsapenko.da@gmail.com)## Hi there 👋
+- [Email](mailto:stanislav.tsapenko.da@gmail.com)
 
 <!--
 **stanislav-tsapenko/stanislav-tsapenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
