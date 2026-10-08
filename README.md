@@ -1,6 +1,6 @@
 # Hi, I'm Stanislav Tsapenko 👋
 
-Finance and accounting professional transitioning into Data Analytics, with a 20+ year background in business management and technical roles and a Master's in Automation and Control (Summa Cum Laude). Strong in SQL, Python, Tableau, statistics and A/B testing. Automated 10+ reports (–30% manual work) and implemented KPI dashboards for 5+ business units. Analyzed four A/B tests (16 metric comparisons) with Z-tests in Python. Translates raw data into business decisions. Detail-oriented, self-directed learner.
+Finance and accounting professional transitioning into Data Analytics, with a background in business management and technical roles and a Master's in Automation and Control (Summa Cum Laude). Strong in SQL, Python, Tableau, statistics and A/B testing. Automated 10+ reports (–30% manual work) and implemented KPI dashboards for 5+ business units. Analyzed four A/B tests (16 metric comparisons) with Z-tests in Python. Translates raw data into business decisions.
 
 ## 🛠 Tools
 
