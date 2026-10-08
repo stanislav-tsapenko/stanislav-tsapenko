@@ -21,6 +21,6 @@ Finance and accounting professional transitioning into Data Analytics, with a ba
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/stanislav-tsapenko-bb097a319)
+- [LinkedIn](linkedin.com/in/stanislav-tsapenko)
 - [Email](mailto:stanislav.tsapenko.da@gmail.com)
 
