@@ -6,7 +6,7 @@ Finance and accounting professional transitioning into Data Analytics, with a ba
 
 - **SQL:** Google BigQuery
 - **Python:** pandas, numpy, matplotlib, seaborn, statsmodels, scipy
-- **BI:** Tableau Public, PowerBI
+- **BI:** Tableau Public, Power BI
 - **Statistics:** A/B testing, Z-test, correlation, non-parametric tests
 
 ## 📂 Featured projects
