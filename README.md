@@ -13,7 +13,7 @@ Finance and accounting professional transitioning into Data Analytics, with a ba
 
 | Project | What it shows |
 |---|---|
-| [A/B test analysis](https://github.com/stanislav-tsapenko/ab-test-ecommerce-analysis) | Z-tests on 4 experiments, 16 funnel comparisons, results and recommendation |
+| [A/B test E-commerce analysis](https://github.com/stanislav-tsapenko/ab-test-ecommerce-analysis) | Z-tests on 4 experiments, 16 funnel comparisons, results and recommendation |
 | [E-commerce sales and user behavior](https://github.com/stanislav-tsapenko/ecommerce-user-behavior-analysis) | $31.97M revenue analysis: SQL, Python, statistical tests, Tableau |
 | [SQL analytics](https://github.com/stanislav-tsapenko/sql-ecommerce-analytics) | SQL queries on an e-commerce database |
 | [Tableau e-commerce dashboard](https://github.com/stanislav-tsapenko/tableau-ecommerce-dashboard) | Interactive dashboard of sales and user behavior |
