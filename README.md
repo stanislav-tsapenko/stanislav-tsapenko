@@ -10,7 +10,6 @@ Finance and accounting professional transitioning into Data Analytics, with a ba
 - **Statistics:** A/B testing, Z-test, correlation, non-parametric tests
 
 ## 📂 Featured projects
-
 | Project | What it shows |
 |---|---|
 | [A/B test E-commerce analysis](https://github.com/stanislav-tsapenko/ab-test-ecommerce-analysis) | Z-tests on 4 experiments, 16 funnel comparisons, results and recommendation |
@@ -18,6 +17,7 @@ Finance and accounting professional transitioning into Data Analytics, with a ba
 | [SQL analytics](https://github.com/stanislav-tsapenko/sql-ecommerce-analytics) | SQL queries on an e-commerce database |
 | [Tableau e-commerce dashboard](https://github.com/stanislav-tsapenko/tableau-ecommerce-dashboard) | Interactive dashboard of sales and user behavior |
 | [Tableau A/B test dashboard](https://github.com/stanislav-tsapenko/tableau-ab-test-dashboard) | A/B test results: conversion lift and significance |
+| [HR Analytics Power BI Dashboard](https://github.com/stanislav-tsapenko/hr-analytics-powerbi) | Interactive Power BI dashboard analyzing HR metrics |
 
 ## 📫 Contact
 
